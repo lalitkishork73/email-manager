@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title: 'Target Trail Mailer – Email Campaign Platform',
     description:
       'A powerful platform for email outreach, marketing automation, and campaign management.',
-    creator: '@lalitkishor', // optional
+    creator: '@lalitkishork', // optional
   },
 
   alternates: {
