@@ -30,13 +30,13 @@ export const metadata: Metadata = {
   creator: 'Lalitkishor A. Kanojiya',
   publisher: 'Target Trail Mailer',
 
-  metadataBase: new URL('https://your-domain.com'), // replace with real domain
+  metadataBase: new URL('https://targettrailmailer.vercel.app/'),
 
   openGraph: {
     title: 'Target Trail Mailer – Smart Email Campaign & Outreach Platform',
     description:
       'Launch, manage, and scale email campaigns easily with Target Trail Mailer. Built for marketers, founders, and growth teams.',
-    url: 'https://your-domain.com',
+    url: 'https://targettrailmailer.vercel.app/',
     siteName: 'Target Trail Mailer',
     locale: 'en_US',
     type: 'website',
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   },
 
   alternates: {
-    canonical: 'https://your-domain.com',
+    canonical: 'https://targettrailmailer.vercel.app/',
   }
 }
 
